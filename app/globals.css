@@ -12,6 +12,10 @@ body {
   color: #fff;
 }
 
+.portfolio-link {
+  color: #0070f3;
+}
+
 .portfolio-link:hover {
   cursor: pointer;
 }
